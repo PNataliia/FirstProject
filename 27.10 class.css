@@ -1,0 +1,7 @@
+.container{
+    background-color: grey;
+}
+.static{
+    background-color: #466880;
+    position: static;
+}

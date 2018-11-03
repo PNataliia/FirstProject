@@ -1,0 +1,11 @@
+
+div{
+    height: 35px;
+    width: 248;
+    background-color: darkslategray ;
+    border: 1px solid black;
+    margin-bottom: 6px;
+}
+    div:first-child{
+        background-color: #1c2a80;
+    }
